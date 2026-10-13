@@ -4,7 +4,7 @@
 
 Postwright is a Windows app that finds the latest stories on the topics you choose, writes them up with AI, publishes them to your WordPress website, and shares them to your social pages. You set it up once and it keeps working in the background.
 
-**[Download the latest version](https://github.com/YOUR-USERNAME/postwright-releases/releases/latest)**
+**[Download the latest version](https://github.com/laytostudio/postwright-releases/releases/latest)**
 
 ---
 
@@ -27,7 +27,7 @@ Postwright is a Windows app that finds the latest stories on the topics you choo
 
 ## Install
 
-1. Download **Postwright Setup** from the [latest release](https://github.com/YOUR-USERNAME/postwright-releases/releases/latest).
+1. Download **Postwright-Setup** (the `.exe` file) from the [latest release](https://github.com/laytostudio/postwright-releases/releases/latest).
 2. Open the file. Windows may show a blue "Windows protected your PC" box because the app is new — click **More info**, then **Run anyway**.
 3. Postwright installs and opens on a short setup guide. It walks you through connecting your website, your AI provider and your topics, and tests each connection as you go.
 
