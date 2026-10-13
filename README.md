@@ -16,7 +16,7 @@ Postwright is a Windows app that finds the latest stories on the topics you choo
 - **Social sharing** — every published post can go out to your Facebook Page, Instagram and X (Twitter) automatically.
 - **Your choice of AI** — works with OpenAI, Claude, Google Gemini, DeepSeek, Mistral, Groq, OpenRouter, or Ollama running free on your own computer. Each one has a step-by-step guide inside the app.
 - **You stay in control** — set how many posts go out per day and how far apart, publish automatically or save drafts to review first, and pause everything with one click.
-- **Safe Mode** — see exactly what Postwright would publish before anything reaches your website.
+- **Safe Mode** — see what Postwright would publish before anything reaches your website.
 
 ## What you need
 
@@ -35,9 +35,9 @@ Setup takes about ten minutes.
 
 ## Trial and activation
 
-Postwright runs as a **free trial** until you activate it. In the trial everything works — it connects to your accounts, finds stories and writes posts — but Safe Mode stays on, so nothing is published. That lets you see the results on your own topics before you pay.
+Postwright runs as a **free trial** until you activate it. In the trial it connects to your accounts, finds stories and writes posts, but Safe Mode stays on, so nothing is published, and you see the opening of each post rather than the whole of it. That lets you judge the results on your own topics before you pay.
 
-An **activation key** unlocks publishing for one website.
+An **activation key** unlocks publishing for one website and costs **$29 per website, one-time**. There is no subscription.
 
 **To get a key, message [@laytostudio on Instagram](https://www.instagram.com/laytostudio/)** with your website address. The app shows you the exact address to send.
 
